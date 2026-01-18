@@ -1,4 +1,4 @@
-# list untuk nyimpan tugas-tugas
+# list untuk nyimpan tugas-tugas2
 tugas_list = []
 id_counter = 1
 
