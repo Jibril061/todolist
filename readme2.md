@@ -1,3 +1,14 @@
+# Nama Lengkap : MUKHAMAD JIBRIL HIDAYATULLAH
+
+# NIM / NRP : 251-111-011
+
+# Mata Kuliah : Praktikum Algoritma dan Pemrograman
+
+# Prodi : Informatika
+
+# Kampus : UBHINUS
+
+
 # Aplikasi To-Do List Sederhana
 
 ## Deskripsi Program
